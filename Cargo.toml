@@ -1,0 +1,9 @@
+[package]
+name = "discurso_zoe"
+version = "0.1.0"
+authors = ["Rafael Medina <rafamedgar@gmail.com>"]
+publish = false
+
+[dependencies]
+texture = "0.0.4"
+rand = "0.3"
